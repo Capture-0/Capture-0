@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning website front-end development
 - 💞️ I’m looking to collaborate on a big company
-- 📫 How to reach me @C4pture on telegram and cap.7313 on instagram
+- 📫 How to reach me @C4pture on telegram and amin.cap_ on instagram
 
 <!---
 Capture-0/Capture-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
